@@ -1,0 +1,16 @@
+/*
+		 * 1) Insere na AVL um objeto da classe Cidade organizada por nome da cidade
+		 *
+		 * 2) Usando um metodo elaborado na classe AVL gerar vetor de cidades com vacinacao menor do que
+		 *    80% e pelo menos 1 caso.
+		 * 	  Depois, ordenar vetor usando quicksort, antes alterar metodo para ordenar vetor
+		 *    de elementos objetos da classe Cidade
+		 *
+		 * 3) Gerar ABB percorrendo AVL, usando um metodo elaborado na classe AVL.
+		 *    ABB é organizada pela cobertura vacinal.
+		 *
+		 */
+
+		 /*
+         		 * Os vetores criados sao para que realizar testes solicitados
+         		 */
